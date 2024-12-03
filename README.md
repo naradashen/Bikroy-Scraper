@@ -3,8 +3,6 @@ This project is a web scraper for bikroy.com using httpx and Beautifoulsoup4. Th
 
 ## Prerequisites
 - Python 3.x
-- Google Chrome
-- ChromeDriver (ensure the ChromeDriver version matches your Chrome version)
 
 ## Installation
 1. Clone the repository:
@@ -23,7 +21,7 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 pip3 install httpx beautifulsoup4
 ```
 
-4. Download ChromeDriver and place it in /usr/local/bin or update the path.
+Enjoy! 🚀
 
 5. ## Usage
 Run the scraper:
